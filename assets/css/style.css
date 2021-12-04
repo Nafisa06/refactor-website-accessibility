@@ -124,19 +124,19 @@ p {
 .benefit-lead img {
     display: block;
     margin: 20px auto;
-    max-width: 180px;
+    max-width: 200px;
 }
 
 .benefit-brand img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 20px auto;
+    max-width: 200px;
 }
 
 .benefit-cost img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 20px auto;
+    max-width: 200px;
 }
 
 .search-engine-optimization {
