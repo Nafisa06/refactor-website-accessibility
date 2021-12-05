@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
         }
-
+/*darkened background for better contrast*/
 .header {
     padding: 100px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,17 +15,17 @@ body {
     color: #ffffff;
 
    }
-
+/*increased font size for better reading*/
 .header h1 {
     display: inline-block;
     font-size: 85px;
 }
-
+/*better contrast and aesthetic with light blue text*/
 .header h1 .seo {
     color: #86def8;
 
 }
-
+/*increased font size for better reading*/
 .header div {
     padding-top: 15px;
     margin-right: -10px;
@@ -43,7 +43,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*underlined to separate each link more clearly*/
 a {
     color: #ffffff;
     text-decoration:underline; 
@@ -53,7 +53,7 @@ p {
     font-size: 30px;
 
 }
-
+/* increased margin bottom for better page spacing*/
 .hero {
     height: 800px;
     width: 100%;
@@ -79,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*darkened background for better contrast*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -91,32 +91,32 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #195d81;
 }
-
+/*centre aligned text for aesthetic purposes*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: center;
 }
-
+/*centre aligned text for aesthetic purposes*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: center;
 }
-
+/*centre aligned text for aesthetic purposes*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: center;
 }
-
+/* increased font size for easier reading*/
 .benefit-lead h3 {
     margin-top: 80px;
     margin-bottom: 10px;
     text-align: center;
     font-size: 30px;
 }
-
+/* increased font size for easier reading*/
 .benefit-brand h3 {
     margin-top: 100px;
     margin-bottom: 10px;
@@ -124,7 +124,7 @@ p {
     font-size: 30px;
 
 }
-
+/* increased font size for easier reading*/
 .benefit-cost h3 {
     margin-top: 100px;
     margin-bottom: 10px;
@@ -132,21 +132,21 @@ p {
     font-size: 30px;
       
 }
-
+/* increased width of image and added border to create some space between image and text*/
 .benefit-lead img {
     display: block;
     margin: 20px auto;
     max-width: 200px;
     border-style: dotted;
 }
-
+/* increased width of image and added border to create some space between image and text*/
 .benefit-brand img {
     display: block;
     margin: 20px auto;
     max-width: 200px;
     border-style: dotted;
 }
-
+/* increased width of image and added border to create some space between image and text*/
 .benefit-cost img {
     display: block;
     margin: 20px auto;
@@ -162,7 +162,7 @@ p {
     background-color: #025588;
     color: #ffffff;
 }
-/*increased margin bottom for better spacing*/
+/*increased margin bottom and height for better spacing, and darkened background for better contrast*/
 .online-reputation-management {
     margin-bottom: 70px;
     padding: 50px;
@@ -171,7 +171,7 @@ p {
     background-color: #025588;
     color: #ffffff;
 }
-
+/*increased margin bottom and height for better spacing, and darkened background for better contrast*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -180,30 +180,30 @@ p {
     background-color: #025588;
     color: #ffffff;
 }
-
+/*increased height for better clarity and more aesthetically pleasing*/
 .search-engine-optimization img {
     max-height: 220px;
 }
-
+/*increased height for better clarity and more aesthetically pleasing*/
 .online-reputation-management img {
     max-height: 220px;
 }
-
+/*increased height for better clarity and more aesthetically pleasing*/
 .social-media-marketing img {
     max-height: 220px;
 }
-
+/*increased font size for easier reading*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*increased font size for easier reading*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 
 }
-
+/*increased font size for easier reading*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
