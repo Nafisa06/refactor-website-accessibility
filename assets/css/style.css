@@ -45,7 +45,8 @@ body {
 
 a {
     color: #ffffff;
-    text-decoration:underline;
+    text-decoration:underline; 
+    
 }
 /* increase the font size to enable easier reading*/
 p {
