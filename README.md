@@ -6,7 +6,17 @@ The goal of this week's task is to improve the accesibility of the Horiseon webs
 
 ## Installation
 
-The project can be accessed through my GitHub Reposity via this link:
+The project can be accessed through my GitHub Reposity via this link:git@github.com:Nafisa06/refactor-website-accessibility.git. 
+
+the following link can be used to view the refactored website: file:///C:/Users/asifa/bootcamp/homework/refactor-website-accessibility/index.html
+
+The final product shows better contrast between the text and background, larger text and better spacing. These improve the accesibility of the website.
+
+```md
+![alt text](assets/images/enlarged header.png)
+```
+
+
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
