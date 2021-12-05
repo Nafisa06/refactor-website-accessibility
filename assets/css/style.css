@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-}
+    }
 
 .header {
     padding: 100px;
@@ -46,7 +46,7 @@ body {
 a {
     color: #ffffff;
     text-decoration:underline; 
-    
+
 }
 /* increase the font size to enable easier reading*/
 p {
