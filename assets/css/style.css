@@ -13,7 +13,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #1a3b4d;
     color: #ffffff;
-    
+
    }
 
 .header h1 {
@@ -52,6 +52,7 @@ a {
 /* increase the font size to enable easier reading*/
 p {
     font-size: 30px;
+    
 }
 
 .hero {
